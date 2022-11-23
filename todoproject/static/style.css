@@ -1,0 +1,12 @@
+.banner{
+    background-color:pink;
+    width : 1500px;
+    height : 150px;
+    margin-bottom: 50px;
+}
+.banner-text{
+    top : 50px;
+    left : 600px;
+    position : absolute;
+    transform : transform;
+}
